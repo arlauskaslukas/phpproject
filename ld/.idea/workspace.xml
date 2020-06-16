@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0291ad25-56e5-4a61-83c5-b05d3f1e7b1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1a32Kf1KYEbhTaAfRq5OBOI896c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0291ad25-56e5-4a61-83c5-b05d3f1e7b1b" name="Default Changelist" comment="" />
+      <created>1585949893709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585949893709</updated>
+      <workItem from="1585949895443" duration="3670000" />
+      <workItem from="1585995827793" duration="3396000" />
+      <workItem from="1586022558970" duration="8780000" />
+      <workItem from="1586038345602" duration="3466000" />
+      <workItem from="1586073008963" duration="14795000" />
+      <workItem from="1586210546892" duration="1150000" />
+      <workItem from="1586282703102" duration="5483000" />
+      <workItem from="1586334821353" duration="11896000" />
+      <workItem from="1586875608003" duration="345000" />
+      <workItem from="1586884025879" duration="615000" />
+      <workItem from="1586930942565" duration="1706000" />
+      <workItem from="1586957380404" duration="23480000" />
+      <workItem from="1587215868429" duration="820000" />
+      <workItem from="1587535420459" duration="19142000" />
+      <workItem from="1587724077170" duration="7462000" />
+      <workItem from="1587819945178" duration="33467000" />
+      <workItem from="1587893193703" duration="5036000" />
+      <workItem from="1587916635636" duration="17389000" />
+      <workItem from="1587990354212" duration="20196000" />
+      <workItem from="1588065397378" duration="27215000" />
+      <workItem from="1588139615899" duration="2850000" />
+      <workItem from="1588451909829" duration="1000000" />
+      <workItem from="1588708092468" duration="2854000" />
+      <workItem from="1589000018701" duration="1462000" />
+      <workItem from="1589037822407" duration="10000" />
+      <workItem from="1589191601859" duration="3692000" />
+      <workItem from="1589625859756" duration="332000" />
+      <workItem from="1589626228136" duration="608000" />
+      <workItem from="1589877918990" duration="1189000" />
+      <workItem from="1589924556172" duration="4780000" />
+      <workItem from="1589954562856" duration="1129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="151" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586081798482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="151" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586081798482" />
+    <state width="943" height="519" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog" timestamp="1587725240097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="943" height="519" key="#com.intellij.structuralsearch.plugin.ui.StructuralReplaceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587725240097" />
+    <state x="488" y="260" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1587725240097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="488" y="260" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587725240097" />
+    <state x="778" y="334" key="NewPhpClassDialog" timestamp="1588020320566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="334" key="NewPhpClassDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588020320566" />
+    <state x="778" y="334" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586986116415" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1589927652955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589927652955" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586987742663" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1587848472279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587848472279" />
+    <state x="-1259" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589954585573">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1259" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589626232475" />
+    <state x="-1259" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589954585573" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588139801844" />
+    <state x="-1737" y="-14" width="1430" height="1027" maximized="true" key="dock-window-1" timestamp="1589954578072">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1737" y="-14" width="1430" height="1027" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589954578072" />
+    <state x="-1711" y="-8" width="1477" height="1027" maximized="true" key="dock-window-2" timestamp="1588096826065">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1711" y="-8" width="1477" height="1027" maximized="true" key="dock-window-2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588096826065" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588142119788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587896958537" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588142119788" />
+    <state x="1096" y="177" width="672" height="676" key="search.everywhere.popup" timestamp="1587939879156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="177" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587939879156" />
+    <state x="1096" y="177" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586962464415" />
+  </component>
+</project>
